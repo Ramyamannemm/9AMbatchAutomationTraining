@@ -16,11 +16,18 @@ public class DataTypes {
   // ----------------------------------------
   public static void main(String[]args) 
   {
+	  
+	  
      int value1='C'; //ASCII value of c
      System.out.println(value1);
      
      char c=12;
      System.out.println(c);
+     
+     AccessModifiers modify=new AccessModifiers();
+     int j=modify.age;
+     System.out.println(j);
+     
   }
    
 	
