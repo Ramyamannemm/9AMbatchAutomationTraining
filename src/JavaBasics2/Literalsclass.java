@@ -28,6 +28,8 @@ public class Literalsclass {
 		
 		float g= (int)3; //down casting is possible in java
 		
+		int j=AccessModifiers.var1;
+		
 		
 		
 		
