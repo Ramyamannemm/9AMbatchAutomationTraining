@@ -28,7 +28,7 @@ public class DataTypes {
      int j=modify.age;
      System.out.println(j);
      
-     int k=modify.creditnumber;
+    // int k=modify.creditnumber;
      
   }
    
